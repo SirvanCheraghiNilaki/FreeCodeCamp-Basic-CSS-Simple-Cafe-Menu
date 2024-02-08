@@ -1,0 +1,2 @@
+# Step 12 - Passed
+## In the previous step, you used a <i>type selector</i> to style the `h1` element. Center the `h2` and `p` elements by adding a new type selector for each one to the existing `style` element.
