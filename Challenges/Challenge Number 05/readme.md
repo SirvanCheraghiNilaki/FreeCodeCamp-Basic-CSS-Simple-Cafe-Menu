@@ -1,0 +1,2 @@
+# Step 5 - Passed
+## It's time to add some menu content. Add a `main` element within the existing `body` element. It will eventually contain pricing information about coffee and desserts offered by the cafe.
