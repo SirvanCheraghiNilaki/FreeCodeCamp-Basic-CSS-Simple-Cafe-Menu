@@ -1,4 +1,4 @@
-# Step 12 - Passed
+# Step 13 - Passed
 ## You now have three type selectors with the exact same styling. You can add the same group of styles to many elements by creating a list of selectors. Each selector is separated with commas like this:
 ```css
 selector1, selector2 {
