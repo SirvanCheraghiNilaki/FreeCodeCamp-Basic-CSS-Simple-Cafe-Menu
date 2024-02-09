@@ -1,0 +1,15 @@
+#menu {
+    /* <!-- Edit the line below --> */
+    width: 80%;
+    background-color: burlywood;
+}
+
+body {
+    /* background-color: burlywood; */
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
