@@ -1,0 +1,14 @@
+/* <!-- Edit the line below --> */
+#menu {
+    width: 300px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
