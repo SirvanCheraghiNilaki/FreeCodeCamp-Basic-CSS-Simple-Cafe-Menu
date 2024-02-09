@@ -1,0 +1,2 @@
+# Step 25 - Passed
+## Next, you want to center the `#menu` horizontally. You can do this by setting its `margin-left` and `margin-right` properties to `auto`. Think of the margin as invisible space around an element. Using these two margin properties, center the `#menu` element within the `body` element.
