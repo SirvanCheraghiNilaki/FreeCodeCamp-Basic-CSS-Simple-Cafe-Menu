@@ -1,0 +1,2 @@
+# Step 27 - Passed
+## To apply the class's styling to the `div` element, remove the `id` attribute and add a `class` attribute to the `div` element's opening tag. Make sure to set the class value to `menu`.
