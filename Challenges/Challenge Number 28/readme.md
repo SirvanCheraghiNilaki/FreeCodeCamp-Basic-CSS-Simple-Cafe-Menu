@@ -1,4 +1,4 @@
-# Step 28
+# Step 28 - Passed
 
 ## Since the cafe's main product for sale is coffee, you could use an image of coffee beans for the background of the page.
 
